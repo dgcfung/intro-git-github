@@ -54,7 +54,7 @@ This will initialize a new git repository in our code. (.git explanation)
 
 - let's `git add <name-of-file>`
 - we can check the status of this `git status`
-- then we'll add a commit message `git commit -m"our first commit"`
+- then we'll add a commit message `git commit -m "our first commit"`
 
 ## And...
  ![Alt Text](https://media.giphy.com/media/xT9KVF4zNt70nyNpi8/giphy.gif)
