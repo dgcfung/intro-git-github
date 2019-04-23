@@ -118,7 +118,7 @@ happen?
 
 (she's not very nice :confused:)
 
-1.  Let's open Sublime and create a `regina.txt` file inside write the following lines:
+1.  Let's open VS Code and create a `regina.txt` file inside write the following lines:
 
   ```bash
   Is butter a carb? These sweatpants are all that fits me right now. 
