@@ -88,8 +88,7 @@ When we add a file we are moving it from the working directory to the staging ar
 ![Alt Text](https://media.giphy.com/media/aDub09OOi8e4M/giphy.gif)
 
 
-
-1.  Create a directory called `mean-girls`. 
+ 
 
 1.  Inside of the `mean-girls` directory create a file called `gretchen.txt`.
 
