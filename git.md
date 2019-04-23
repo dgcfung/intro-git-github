@@ -93,7 +93,7 @@ When we add a file we are moving it from the working directory to the staging ar
 
 1.  Inside of the `mean-girls` directory create a file called `gretchen.txt`.
 
-1.  Opening the file with Sublime and copy in the following lines:
+1.  Opening the file with VS Code and copy in the following lines:
 
   ```bash
   That is so fetch!  
