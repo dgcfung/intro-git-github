@@ -11,7 +11,7 @@
 
 ## Prerequisites
 
--   WDI Fundamentals
+-   SEI Fundamentals
 
 ## Why Git?
 Git is a form of Version Control. 
