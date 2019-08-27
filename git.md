@@ -172,7 +172,7 @@ Let's go back to our Mean Girls directory, and in our terminal we can remove it 
 
 ## Additional Resources
 
--   [Git Commands Cheatsheet](command-reference.md)
+-   [Git Commands Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 -   [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook)
 -   [Visualizing Git Commands](https://onlywei.github.io/explain-git-with-d3/)
 -   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
