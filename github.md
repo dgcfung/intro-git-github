@@ -48,8 +48,8 @@ If you work by yourself, you don't really need remotes. However, we want to work
 -  since we already have a repo we'll follow step 2
 -  go to terminal 
 -  lets add the URL we copied to 
--  `git remote add`
--  `git remote push`
+-  `git remote add origin <Github-URL>`
+-  `git remote push -u origin master`
 
 ### Connected!
 
