@@ -134,11 +134,6 @@ repository.
 
 ![Alt Text](https://media.giphy.com/media/xT5LMXR7iA0mSSxOBG/giphy.gif)
 
-We're all in this together #narwahls :whale:
-
-
-
-
 
 ## Additional Resources
 
