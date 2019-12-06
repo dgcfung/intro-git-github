@@ -122,7 +122,7 @@ and vice versa.
 
 Each of you should now have updated code on GitHub, but your local Git repo
 will be behind.  We need to get the latest code off of GitHub.  We can do this
-by pulling the changes that we merged.  The command to do this is:
+by pulling the changes that we merged. Git pull is a combination of git fetch and git merge. The command to do this is:
 
 `git pull origin master`
 
