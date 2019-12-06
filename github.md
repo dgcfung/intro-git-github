@@ -114,7 +114,7 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 
 Working with a partner, follow the example we just did and take turns: (Example names: Ruben & Leah)
 -  Ruben should clone Leah's repo & create a new branch in the terminal
--  on this new branch, add your-name.txt and add your "catchphrase" to the text inside
+-  Add your-name.txt and add your "catchphrase" to the text inside
 -  Ruben should create a pull request
 -  Leah  should accept this pull request and merge it into her GitHub repo
 -  Leah should pull the new changes Ruben made (via using the terminal)
