@@ -83,14 +83,21 @@ Tina Fey is here to teach us about forking, cloning, and pull requests!
 ## Fork
 
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+<br>
 
 ![fork](https://user-images.githubusercontent.com/6153182/33048606-bed6d2c0-ce29-11e7-8f54-bf7cf4560dec.png)
 
 ## Clone
 
+When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
+
 ![clone](https://user-images.githubusercontent.com/6153182/33048675-24e2bc50-ce2a-11e7-804f-634a7790107c.png)
 
 ## Pull request
+
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+
+[Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ![bridgid](https://user-images.githubusercontent.com/6153182/33048688-3098920e-ce2a-11e7-9873-29cc04f36d49.png)
 
