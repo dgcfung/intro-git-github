@@ -97,7 +97,7 @@ When you create a repository on GitHub, it exists as a remote repository. You ca
 
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
 
-[Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+### [Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ![bridgid](https://user-images.githubusercontent.com/6153182/33048688-3098920e-ce2a-11e7-9873-29cc04f36d49.png)
 
@@ -124,7 +124,7 @@ Each of you should now have updated code on GitHub, but your local Git repo
 will be behind.  We need to get the latest code off of GitHub.  We can do this
 by pulling the changes that we merged. Git pull is a combination of git fetch and git merge. The command to do this is:
 
-`git pull origin master`
+`git pull`
 
 This gets the latest copy of our code from the master branch of our original
 repository.
