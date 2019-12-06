@@ -9,7 +9,7 @@
 -   Fork a remote repository.
 -   Clone a remote repository.
 -   Collaborate with other developers on the same project.
--   Create a new branch, pull requests, and merging
+-   Pull requests, and merging
 -   Don't be like the characters from "Mean Girls" :no_good:
 
 
@@ -102,10 +102,13 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 ![bridgid](https://user-images.githubusercontent.com/6153182/33048688-3098920e-ce2a-11e7-9873-29cc04f36d49.png)
 
 #### To recap:
--  `fork`
--  `clone`
--  `new branch, tina-fey.txt & "Go home", add/ commit/ push`
--  `create pull request`
+- `fork`
+- `clone`
+-  Make changes to a file
+- `git add <filename>` or `git add .` (. is everything in current directory)
+- `git commit -m 'your commit message'`
+- `git push`
+- `create pull request`
 
 # You do: Adding to Other's Stories
 
